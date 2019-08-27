@@ -17,11 +17,15 @@ A direct or indirect reference to something which is presumably commonly known, 
 
 EX.: “Plan ahead: it wasn’t raining when Noah built the ark” - Richard Cushing
 
-###Approach
-Use EX as a delimeter and remove that line.
+<<<<<<< HEAD
+### How to use
+* Paste raw data from the unit (ex above) into raw.txt
+* Run autoQuizlet.py
+* Paste out.txt into [Quizlet]("https://quizlet.com/create-set")
+Nice.
 
-Format needs to look like
 
-word|def
-word|def
+### NolanClement on Quizlet
+=======
 ...
+>>>>>>> cf90f5dfc3ba0533da43d03c5e2cd2543355eacb
